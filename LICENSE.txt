@@ -1,0 +1,30 @@
+This project is released under the MIT License
+
+Copyright (c) 2017 Batool
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+In addition to the above license notice, the following licenses apply to the contents of this project
+
+Review Yandex.Translate terms of service: http://legal.yandex.com/translate_api/
+Review Flaticon FREE LICENSE (WITH ATTRIBUTION) terms and conditions: https://profile.flaticon.com/license/free
+
+Icons used in this project:
+Launcher icon made by [Google, https://www.flaticon.com/authors/google] from www.flaticon.com
+Network connection error icon made by [Swifticons, https://www.flaticon.com/authors/swifticons] from www.flaticon.com

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Translator</string>
+
+    <string name="french">French</string>
+    <string name="english">English</string>
+
+    <string name="tap_to_enter_text">Tap to enter text...</string>
+
+    <string name="en_fr">en-fr</string>
+    <string name="fr_en">fr-en</string>
+
+    <string name="yandex_copyrights">Powered by Yandex.Translate</string>
+
+    <string name="no_connection">No connection</string>
+    <string name="check_your_connection">Please check your internet connection \nand try again</string>
+</resources>
+
+
